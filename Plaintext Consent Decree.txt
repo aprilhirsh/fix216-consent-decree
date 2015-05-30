@@ -1525,7 +1525,9 @@ introducing themselves at the initiation of contact with a civillan; (2) stating
 for an investigatory stop as soon as practicable; (3) ensuring that an investigatory stop
 is no longer than necessary to take appropri ate action; and ( 4) acting with
 professionalism and courtesy throughout the interaction.
-IX. ACCOUNT ABILITY
+
+IX. ACCOUNTABILITY
+
 176. The City and CDP will ensure that all allegations of officer misconduct, whether
 internally discovered or alleged by a civilian, are fully, fairly, and efficiently
 investigated; that all investigative find ings are supported by a preponderance of the
@@ -1533,234 +1535,294 @@ evidence and documented in writing; and that all officers who commit misconduct 
 held accountable pursuant to a disciplinary system that is fair, consistent, and provides
 due process. To achieve these outcomes, CDP and the City will implement the
 requirements set out below.
+
 A. Internally Discovered Misconduct
+
 177. Internal Affairs will conduct objective, comprehensive, and timely investigations of all
 internal allegations of officer misconduct. All findings will be based on the
 preponderance of the evidence standard. This standard will be clearly delineated in
 policies, training, and procedures and accompanied by detailed examples to ensure
-·proper application by investigators.
+proper application by investigators.
+
 178. Internal Affairs will be headed by a qualified civilian who is not a current or former
-employee of CDP, and who is not a cunent or retired law enforcement officer. The
-civilian head oflnternal Affairs will repo1i directly to the Chief of Police.
-l 79. CDP will ensure that misconduct investigators and commanders possess excellent
+employee of CDP, and who is not a current or retired law enforcement officer. The
+civilian head of Internal Affairs will report directly to the Chief of Police.
+
+l79. CDP will ensure that misconduct investigators and commanders possess excellent
 investigative skills, a reputation for integrity, the ability to write clear reports, and the
 ability to be fair and objective in determining whether an officer committed
 misconduct. Officers with a sustained history of civilian complaints of, or who have
 been disciplined for, excessive use of force, discrimination, or dishonesty will be
 presumptively ineligible for assignment to Internal Affairs.
+
 180. Within 365 days of the Effective Date, CDP will provide all new personnel assigned to
 Internal Affairs with initial training and verify that all existing personnel received
 training within 365 days prior to the Effective Date that is adequate in quality, quantity,
-43 
 scope, and type on conducting misconduct investigations. This training will include
 instruction in:
+
 a. investigative skills, including proper interrogation and interview techniques;
 gathering and objectively analyzing evidence; and data and case management;
-b. the par1icular challenges of administrative police misconduct investigations,
+
+b. the particular challenges of administrative police misconduct investigations,
 including identifying alleged misconduct that is not clearly stated in the
 complaint or that becomes apparent during the investigation;
+
 c. properly weighing the credibility of civilian witnesses against officers;
+
 d. using objective evidence to resolve inconsistent statements;
+
 e. the proper application of the preponderance of the evidence standard; and
+
 f. CDP rules and policies, including the requirements of this Agreement, and
 protocols related to administrative investigations of alleged officer
 misconduct.
+
 181. Internal Affairs investigators also will receive annual training related to conducting
 misconduct investigations that is adequate in quality, quantity, type and scope.
-182. ln each investigation, Internal Affairs will collect and consider all relevant
+
+182. In each investigation, Internal Affairs will collect and consider all relevant
 circumstantial, direct, and physical evidence, including officer-recorded video as it
-becomes available through CD P's implementation of body worn cameras or other
+becomes available through CDP's implementation of body worn cameras or other
 recording devices. There will be no automatic preference for an officer's statement
-over a non-officer's statement. lnternal Affairs investigators will not disregard a
+over a non-officer's statement. Internal Affairs investigators will not disregard a
 witness's statement solely because the witness has some connection to either the
-complainant or the offi cer or because the witness or complainant has a criminal history.
+complainant or the officer or because the witness or complainant has a criminal history.
 In conducting the investigation, Internal Affairs investigators may take into account the
-record of any witness, complainant, or officer who has been detem1ined to have been
+record of any witness, complainant, or officer who has been determined to have been
 deceptive or untruthful in any legal proceeding, misconduct investigation, or other
 investigation. Internal Affairs investigators will make all reasonable efforts to resolve
 material inconsistencies between witness statements.
+
 183. Internal Affairs will evaluate all relevant police activity and any evidence of potential
 misconduct uncovered during the course of the investigation, including each use of
 force, and any investigatory stops, searches, or seizures that occurred during the
 incident.
-44 
+ 
 184. If the person involved in the encounter with the police pleads guilty or is found guilty
 of an offense, Internal Affairs will not consider that information alone to be
 determinative of whether a CDP officer engaged in misconduct, nor will it justify
 discontinuing the investigation.
-I 85. Internal Affairs will complete its administrative investigations within 30 days from the
+
+185. Internal Affairs will complete its administrative investigations within 30 days from the
 date it learns of the alleged misconduct. Any request for an extension of time must be
 approved in writing by the Chief or the Chiefs designee.
-186. At the conclusion of each investigation, lntemal A ff airs wi 11 prepare an investigation
+
+186. At the conclusion of each investigation, Internal Affairs will prepare an investigation
 report. The report will include:
+
 a. a narrative description of the incident, including a precise description of the
 evidence that either justifies or fails to justify the officer's conduct based on
 Internal Affairs' independent review of the facts and circumstances of the
 incident;
+
 b. documentation of all evidence that was gathered, including names, phone
 numbers, and addresses of witnesses to the incident. In situations in which
-there are no known witnesses, the report will specificall y state this fact. In
+there are no known witnesses, the report will specifically state this fact. In
 situations in which witnesses were present but circumstances prevented the
 author of the report from determining the identification, phone number, or
 address of those witnesses, the report will state the reasons why. The report
 also will include all available identifying information for anyone who refuses
 to provide a statement;
-c. documentation of whether offi cers were intervi.ewed, and a transcript or
+
+c. documentation of whether officers were interviewed, and a transcript or
 recording of those interviews;
+
 d. the names of all other CDP employees who witnessed the incident;
+
 e. Internal Affairs' evaluation of the incident, based on its review of the
 evidence gathered, including a determination of whether the officer's actions
 appear to be within CDP policy, procedure, regulations, orders, or other
 standards of conduct required of City employees; and an assessment of the
 incident for policy, training, tactical, or equipment concerns;
+
 f. if a weapon was used, documentation that the officer's certification and
-training fo r the weapon were current; and
-45 
+training for the weapon were current; and
+
 g. documentation of recommendations for initiation of the disciplinary process.
+
 187. In addition to determining whether an officer committed alleged misconduct,
 investigations will include an assessment of whether:
+
 a. the police action was in compliance w1th training and legal standards;
+
 b. the use of different tactics should or could have been employed;
+
 c. the incident indicates a need for additional training, counseling, or other nondisciplinary
-correcti ve actions; and
+corrective actions; and
+
 d. the incident suggests that CDP should revise its policies, strategics, tactics, or
 training.
+
 188. CDP will ensure that all relevant information from the completed investigation is
 provided electronically to the officers' supervisors, the Training Review Committee,
 the Force Review Board, the Officer Intervention Program, and the Data Collection and
 Analysis Coordinator while ensuring that sensitive information is adequately protected.
+
 B. Reporting Misconduct and Preventing Retaliation
+
 189. CDP will require any CDP employee who observes or becomes aware of any act of
 misconduct by another employee to report the incident to a supervisor or directly to
-Jnternal Affairs. Where an act of misconduct is reported to a supervisor, the supervisor
+Internal Affairs. Where an act of misconduct is reported to a supervisor, the supervisor
 will immediately document and report the information to Internal Affairs. Failure to
 report an act of misconduct is an egregious offense and will subject the officer to the
 disciplinary process and, if sustained, will subject the officer to discipline, up to and
 including termination.
-190. CDP will develop a system that allows officers to confidential ly and anonymously
+
+190. CDP will develop a system that allows officers to confidentially and anonymously
 report potential misconduct by other officers.
-l 91. CDP will expressly prohibit all forms of retaliation, discouragement, intimidation,
+
+l91. CDP will expressly prohibit all forms of retaliation, discouragement, intimidation,
 coercion, or adverse action, against any person, civilian or officer, who reports
 misconduct, makes a misconduct complaint, or cooperates with an investigation of
 misconduct.
-192. Offi cers who retaliate against any person who reports or investigates alleged
-misconduct will be subject to the disciplinary process and possible discipl ine, up to and
+
+192. Officers who retaliate against any person who reports or investigates alleged
+misconduct will be subject to the disciplinary process and possible discipline, up to and
 including termination.
-46 
-•
+
 C. Investigation of Civilian Complaints
+
 1. The Office of Professional Standards
-193. The Office of Professional Standards (''OPS") will investigate all civilian complaints it
+
+193. The Office of Professional Standards ("OPS") will investigate all civilian complaints it
 receives, other than those that allege criminal conduct. All complaints of apparent
-criminal conduct will be rcfc1Tcd to Internal Affairs. Complaints of excessive fo rce
+criminal conduct will be referred to Internal Affairs. Complaints of excessive force
 will be retained by OPS for investigation except in exceptional circumstances, or if
-Internal Affairs already bas initiated an investigation. Once Internal J\ ff airs completes
-a referred criminal investigation, if a dctc1mination is made that no criminal conduct
+Internal Affairs already bas initiated an investigation. Once Internal Affairs completes
+a referred criminal investigation, if a determination is made that no criminal conduct
 occurred, the complaint will be referred back to OPS and the Police Review Board
-(''PRB") for disposition.
+("PRB") for disposition.
+
 194. The City will ensure that OP is led by an administrator with the skills, expertise, and
-experience to effectively manage the intake, tracking, timely, and ~j ective
+experience to effectively manage the intake, tracking, timely, and objective
 investigation of complaints; identify and implement appropriate training for
 investigators and PRB members from sources outside of CDP; assess OPS's equipment
 and staffing needs, including administrative staff, investigators, and supervisor(s); and
 ensure that OPS operates in a manner that is transparent and accountable to the
-community it serves. The administrator also will have the skills, expe11ise, and
+community it serves. The administrator also will have the skills, expertise, and
 experience to develop and implement performance standards for OPS. For future
-appointments, the City wi ll seek the Commission's input in developing the minimum
+appointments, the City will seek the Commission's input in developing the minimum
 qualifications and experience for an administrator.
+
 195. OPS investigators will receive initial training that is adequate in quality, quantity,
-scope. and type and will include:
+scope, and type and will include:
+
 a. investigative skills, including proper interrogation and interview techniques;
 gathering and objectively analyzing evidence; and data and case management;
-b. the particular challenges of administrative investigations ofpolice conduct.
+
+b. the particular challenges of administrative investigations of police conduct,
 including identifying conduct warranting investigation that is not clearly
 stated in the complaint or that becomes apparent during the investigation;
+
 c. properly weighing the credibility of civilian witnesses against officers;
+
 d. using objective evidence to resolve inconsistent statements;
+
 e. the proper application of the preponderance of the evidence standard; and
-47 
-f, CDP rules and policies, including the requirements of this Agreement, and
+ 
+f. CDP rules and policies, including the requirements of this Agreement, and
 protocols related to administrative investigations of officer conduct alleged to
 be improper.
+
 196. The training will be provided by sources both inside and outside of CDP, in order to
 ensure the highest quality training on investigative techniques and CDP policies,
 procedures, and disciplinary rules. Within 365 days of the Effective Date, OPS
 investigators will receive training that is adequate in quality, quantity, type, and scope,
 both initially and annually, in how to conduct administrative investigations.
+
 197. OPS Investigators will not be current members of the CDP, and no CDP personnel will
 have any active role in OPS's operations.
+
 198. The City will ensure that the lawyer representing OPS does not have any actual or
 apparent conflicts of interest.
+
 199. OPS will have its own budget, separate from the administrative budget for the
 Department of Public Safety. The OPS Administrator will oversee the budget. The
 Monitor will analyze OPS's budget and advise the Parties and the Court as to whether it
-affords suffic ient independence and resources, including sufficient staff and training to
+affords sufficient independence and resources, including sufficient staff and training to
 meet the terms of this Agreement.
+
 200. Within 180 days of the Effective Date, OPS will develop a revised operations manual
 that will be made available to the public. The manual will, at a minimum, include the
 following:
+
 a. a mission statement that defines OPS and PRB's core values, mission, and
 authority;
+
 b. definitions of all relevant terms;
-c. investigafr,'.'e procedures, including procedures for objective fact-gathering
+
+c. investigative procedures, including procedures for objective fact-gathering
 and evaluation and the factors that will be considered when evaluating
 credibility; procedures on report writing; and procedures for collecting and
 processing evidence;
+
 d. procedures outlining when complaints may be administratively dismissed and
 the process with which OPS must comply to ensure that complaints are not
 prematurely or unnecessarily dismissed;
-48 
+ 
 c. outlines the duties and practices of PRB, including how PRB will review OPS
 findings, how cases will be presented to PRB by OPS, the standard of review
 PRB will apply to reviewing complaints, how disciplinary recommendations
 will be determined, and a description of the types of information PRB will
 make available to the public; and
+
 f. an explanation of possible dispositions and outcomes of complaints.
+
 2. Filing and Tracking of Civilian Complaints
+
 201. Within 365 days of the Effective Date, the City and CDP, in consultation with the
 Commission and OPS, will develop and implement a program to promote awareness
-throughout the Cleveland community about the process for tiling complaints with OPS.
-202. CDP and the City wi ll work with the police unions, as necessary, to allow civilian
+throughout the Cleveland community about the process for filing complaints with OPS.
+
+202. CDP and the City will work with the police unions, as necessary, to allow civilian
 complaints to be submitted to OPS verbally or in writing; in person, by phone, or on
 line; by a complainant, someone acting on his or her behalf, or anonymously; and with
 or without a signature from the complainant. All complaints will be documented in
 writing.
+
 203. CDP will post and maintain by the intake window at CDP headquarters and all District
 headquarters a pennanent placard describing the civilian complaint process that
 includes relevant OPS contact information. including telephone numbers, email
 addresses, and Internet sites.
-204. Within 365 days of the Effective Date, CDP wil I provide training that is adequate in
+
+204. Within 365 days of the Effective Date, CDP will provide training that is adequate in
 quality, quantity, scope, and type to all police personnel, including dispatchers, to
 properly handle complaint intake, including how to provide complaint materials and
 information; the consequences for failing to take complaints; and strategies for turning
 the complaint process into a positive police-civilian interaction.
+
 205. CDP will require all offi cers to carry complaint forms in their CDP vehicles. Officers
-wi ll provide complaint forms to individuals upon request. Offi cers will provide their
+will provide complaint forms to individuals upon request. Officers will provide their
 name and badge number upon request. If an individual indicates to an officer that he or
 she would like to make a complaint about that officer, the officer will immediately
 inform his or her supervisor who will respond to the scene to assist the individual in
 filing a complaint. The supervisor will provide the individual a copy of the completed
-49 
-complaint form or a blank fom1 to be completed later by the individual.
+complaint form or a blank form to be completed later by the individual.
+
 206. The City and OPS will make complaint forms and other materials outlining the
 complaint process and OPS's contact information widely available at locations
-including: the websites of CDP, OPS and the City of Cleveland; the lobby ofOPS's
+including: the websites of CDP, OPS and the City of Cleveland; the lobby of OPS's
 building; CDP headquarters and Districts; and City Hall. OPS will ask locations such
 as public library branches and the offices and gathering places of community groups to
 make these materials available.
+
 207. OPS's complaint form will not contain any language that could reasonably be construed
 as discouraging the filing of a complaint, including warnings about the potential
 criminal consequences for filing false complaints.
+
 208. Within 180 days of the Effective Date, complaint forms and related informational
 materials wi ll be made available, at a minimum, in English and Spanish. OPS will
 make every effort to ensure that complainants who speak other languages (including
-sign language) and have limited English pro ficiency can fi le complaints in their
-prefen ed language. The fact that a complainant does not speak, read, or write English,
+sign language) and have limited English proficiency can file complaints in their
+preferred language. The fact that a complainant does not speak, read, or write English,
 or is deaf or hard of hearing will not be grounds to decline to accept or investigate a
 complaint.
+
 209. The City will ensure that civilian complaints submitted through other existing systems,
 including the Mayor's Action Center and the Department Action Center, are
 immediately forwarded to OPS for investigation.
+
 210. Within 150 days of the Effective Date, OPS will establish a centralized electronic
 numbering and tracking system for all complaints. Upon receipt of a complaint, OPS
 will promptly assign a unique identifier to the complaint, which will be provided to the
@@ -1772,26 +1834,32 @@ final disposition of the complaint. The system will be used to determine the sta
 complaints, as well as for periodic assessment of compliance with relevant OPS
 policies and procedures and this Agreement, including requirements of timeliness of
 investigations. The system also will be used to monitor and maintain appropriate
-50 
 caseloads for OPS investigators.
-21 1. OPS will track, as a separate category of complaints, allegations of biased policing,
+
+211. OPS will track, as a separate category of complaints, allegations of biased policing,
 including allegations that an officer conducted an investigatory stop or arrest based on
-an individual" s demographic category or used a slur based on an individual's
+an individual's demographic category or used a slur based on an individual's
 demographic category. OPS will require that complaints of biased policing are
 captured and tracked appropriately, even if the complainant does not so label the
 allegation.
-212. OPS wi ll track, as a separate category of complaints, allegations of unlawful
+
+212. OPS will track, as a separate category of complaints, allegations of unlawful
 investigatory stops, searches, or arrests.
+
 213. OPS will track, as a separate category of complaints, all allegations of excessive use of
 force received through OPS's intake process.
-2 14. OP will conduct regular assessments of the types of complaints being received to
+
+214. OPS will conduct regular assessments of the types of complaints being received to
 identify and assess potential problematic patterns and trends.
-215. .OPS will produce, at least annually, a public report summarizing complaint trends,
+
+215. OPS will produce, at least annually, a public report summarizing complaint trends,
 including the number and types of complaints received, the disposition of complaints
 by complaint type, the number and types of complaints administratively dismissed, and
 the average length of complaint investigations.
+
 3. Classification of Civilian Complaints
-2 16. Within 90 days of the Effective Date, OPS will determine criteria for assigning
+
+216. Within 90 days of the Effective Date, OPS will determine criteria for assigning
 complaints to one of two tracks: standard and complex. Investigation of complaints
 assigned to the standard track will be completed within 45 days. Investigation of
 complaints assigned to the complex track will be completed within 90 days during the
@@ -1799,244 +1867,320 @@ first 6 months following the Effective Date and within 75 days thereafter. OPS w
 undertake a staffing analysis to determine how many investigators are required to meet
 these targets and, if necessary, the City will use best efforts to expand OPS staff in
 accordance with the results of the analysis. The staffing analysis will be provided to
-the Monitor, which will review it for adequacy. The Monitor will advise the Patties as
+the Monitor, which will review it for adequacy. The Monitor will advise the Parties as
 to whether OPS and PRB's budget affords sufficient independence and resources to
 meet the terms of this Agreement, and whether the City is using best efforts to expand
 its staff, if indicated by the analysis. The Monitor will include this assessment in its
-51 
 reports.
+
 217. OPS will not terminate an investigation simply because the complainant seeks to
 withdraw the complaint or is unavailable, unwilling, or unable to cooperate with an
-investigation. OPS will continue the investigation and reach a fi nding, where possible,
+investigation. OPS will continue the investigation and reach a finding, where possible,
 based on the evidence and investigatory procedures and techniques available. In its
 annual report, OPS will include the number and types of complaints administratively
-dismissed and the reasons for closure. Only the fo llowing types of complaints may be
+dismissed and the reasons for closure. Only the following types of complaints may be
 assigned the disposition of administratively dismissed:
+
 a. complaints disputing traffic citations, except that allegations of improper
 conduct contained in such complaints (e.g., racial profiling, illegal search,
 excessive force) will be classified and investigated according to their merits;
+
 b. complaints alleging a delay in police services where the preliminary
 investigation demonstrates that the delay was due to workload, or otherwise
 unavoidable;
-c. complaints regarding off duty offi cer conduct of a civil nature, unless the
+
+c. complaints regarding off duty officer conduct of a civil nature, unless the
 alleged conduct, or its effects, constitute misconduct or have a substantial
 nexus to the officer's City employment; and
+
 d. complaints in which the preliminary investigation demonstrates that the
-officer does not work for CDP, or where the identity of the offi cer cannot be
-detennined despite the best efforts of OPS.
+officer does not work for CDP, or where the identity of the officer cannot be
+determined despite the best efforts of OPS.
+
 4. Investigation of Civilian Complaints
+
 218. OPS will ensure that investigations of complaints are as thorough as necessary to reach
 reliable and complete findings that are supported by the preponderance of the evidence.
+
 219. CDP will ensure that OPS has timely access to all reports related to the incident,
 including incident reports, supervisory investigations, completed Internal Affairs'
 investigations, and Force Review Board reports. If an investigation already is being or
 has been conducted by CDP and the OPS Administrator determines that it was thorough
 and complete, no additional investigation will be required. However, OPS has the
 authority to conduct additional investigation of any civilian complaint.
+
 220. OPS investigators will attempt to interview each complainant in person, and where
-52 
 appropriate, this interview will be recorded in its entirety, absent a specific,
 documented objection by the complainant.
+
 221. The Chief will order officers who witnessed or participated in an incident that is the
 subject of an OPS complaint to cooperate with the OPS investigation, including by
 responding to written questions submitted by OPS or in-person interviews, as request
 by OPS.
-222. .OPS investigators will have access to any relevant disciplinary information in the
+
+222. OPS investigators will have access to any relevant disciplinary information in the
 record of an officer who is the subject of a current investigation.
+
 223. In each investigation, OPS will consider all relevant evidence, including circumstantial,
 direct, and physical evidence. There will be no automatic preference for an officer's
-statement over a non-offi cer's statement. OPS will not disregard a witness's statement
-solely because the witness has some connection to either the complainant or the offi cer
+statement over a non-officer's statement. OPS will not disregard a witness's statement
+solely because the witness has some connection to either the complainant or the officer
 or because the witness or complainant has a criminal history. OPS will make all
-reasonable effo11s to resolve material inconsistencies between witness statements.
+reasonable efforts to resolve material inconsistencies between witness statements.
+
 224. At the conclusion of its investigation, OPS will explain its findings using one of the
 following categories:
+
 a. Sustained: the preponderance of the evidence establishes that the violation of
 policy occurred. A complaint may be "sustained in part'' if the investigation
 revealed sufficient evidence to support a finding of a policy violation on one
 or more, but not all of the complainant's allegations. A complaint may also be
-"sustained for a violation not based on original complainf' if the investigation
+"sustained for a violation not based on original complaint" if the investigation
 reveals evidence of misconduct that was not included in the complainant's
 original allegation.
-b. Exonerated: the preponderance of the evidence fai ls to establish a finding of a
+
+b. Exonerated: the preponderance of the evidence fails to establish a finding of a
 policy violation and does not wanant any further investigation or action.
-c. Unfounded: the preponderance of the evidence fa ils to establish whether a
+
+c. Unfounded: the preponderance of the evidence fails to establish whether a
 policy violation occuned or did not occur.
+
 d. Not Sustained: the preponderance of the evidence establishes that the alleged
 conduct did occur, but did not violate CDP policies, procedures, or training.
+
 e. Administratively dismissed.
+
 225. OPS will document in writing the investigation of each complaint, including all
-53 
 investigatory steps taken, and OPS's findings and conclusions. The recommended
 findings will be supported by a preponderance of the evidence.
+
 226. In addition to determining whether an officer committed the conduct alleged in the
 complaint and whether it violated policy, OPS may consider whether: (a) the police
 action was in compliance with training and legal standards; (b) the incident indicates a
-need for additional training, counseli ng, or other co1Tective measures; and (c) the
+need for additional training, counseling, or other collective measures; and (c) the
 incident suggests that CDP should revise its policies, strategies, tactics, or training.
 OPS may include recommendations on these topics in its investigation.
+
 227. OPS will forward all investigations and its written conclusions to PRB in sufficient
 time for PRB to consider them no later than the second regularly scheduled PRB
 meeting following completion or the investigation.
+
 5. Communication with the Complainant
+
 228. OPS will send periodic written updates to the complainant including:
+
 a. within seven days of receipt of a complaint, OPS will send non-anonymous
 complainants a written notice of receipt, including the tracking number
 assigned to the complaint. The notice will inform the complainant how s/he
 may contact OPS to inquire about the status of a complaint.
+
 b. when OPS concludes its investigation, OPS will notify the complainant that
 the investigation has been concluded and forwarded to PRB, and inform the
 complainant when PRB will hear the complaint.
+
 e. when PRB reaches a determination, OPS will notify the complainant of PRB's
-determination and inform the complainant that the case will be fo rwarded to
+determination and inform the complainant that the case will be forwarded to
 the Chief of Police or Director of Public Safety for review and/or disciplinary
 action; and
+
 d. when the Chief or Director of Public Safety reports the final outcome of
 his/her disciplinary process, OPS will notify the complainant of the result, and
 inform him/her that the matter is now concluded.
+
 229. Notwithstanding the above notices, a complainant may contact OPS at any time to
 determine the status of his/her complaint.
+
 D. Police Review Board
-54 
+
 230. Within 120 days of the Effective Date, in consultation with the Commission, the Mayor
 will work with the City Council to develop an ordinance to place a Charter Amendment
 on the ballot that would ensure that the members of PRB are appointed in a transparent
 manner, are representative of the diverse communities within Cleveland, and allow the
 chair and a vice chair of PRB, to each serve for a term of one year, to be selected from
 among the members by majority vote of PRB's membership.
-23 1. PRB members will not be cuncnt or former members of the CDP.
+
+231. PRB members will not be current or former members of the CDP.
+
 232. PRB will have its own budget, separate from the administrative budget for the
 Department of Public Safety. The OPS Administrator will oversee the budget. The
 Monitor will analyze PRB's budget and advise the Parties and the Court as to whether it
 affords sufficient independence and resources, including sufficient staff and training to
 meet the terms of this Agreement.
+
 233. PRB members will receive initial training that is adequate in quality, quantity, scope,
 and type and will include:
+
 a. constitutional and other relevant law on police-citizen encounters, including
 law on the use of force and stops, searches, and arrests;
+
 b. police tactics;
+
 c. investigations of police conduct;
+
 d. bias-free policing;
+
 e. policing individuals in crisis;
+
 f. CDP policies, procedures and disciplinary rules; and
+
 g. community outreach.
+
 234. The training will be provided by sources both inside and outside of CDP, in order to
 ensure the highest quality training on investigative techniques, and CDP policies,
 procedures, and disciplinary rules.
+
 235. PRB's meetings will be open to the public. The schedule and location of meetings will
 be designed to ensure easy public access and will be posted on OPS's website, as will
 agendas for upcoming PRB meetings. PRB members may vote to go into executive
 session for their deliberations, but case presentations and PRB votes will take place in
 open session.
+
 236. OPS investigators will attend PRB meetings at which their investigations are being
-55 
 considered and present their investigation, findings, and conclusions to PRB, whose
 members can direct questions about cases to them. If PRB determines that it needs
 additional information before considering a matter, it may ask the investigator to
 conduct further investigation.
+
 237. PRB's recommended dispositions will be based on a preponderance of the evidence.
 For each case, PRB shall set fo1th its conclusion and an explanation of its reasons and
 suppo1ting evidence in writing including, when applicable, the justification for
 departing from OPS's recommended disposition.
+
 238. In cases where PRB is recommending a sustained disposition, in whole or in part, PRB
 will include a recommendation as to disciplinary or non-disciplinary corrective action.
+
 239. PRB will forward all of its recommendations regarding dispositions and discipline to
 the Chief of Police or Director of Public Safety for their review. PRB may include an
 assessment of whether: (a) the police action was incompliance with training and legal
-standards; (b) the incident indicates a need fo r additional training, counseling, or other
+standards; (b) the incident indicates a need for additional training, counseling, or other
 conective measures; and (c) the incident suggests that CDP should revise its policies,
 strategics, tactics, or training.
+
 E. Disciplinary Hearings
+
 240. The Chief of CDP will issue a General Police Order that requires officers to:
 (a) cooperate with the Internal Affairs and OPS investigators; and (b) submit all
 relevant evidence to the investigators such that it is available for consideration by
 Internal Affairs or PRB.
-241 . Where PRB or Internal Affairs recommends the initiation of the disciplinary process,
+
+241. Where PRB or Internal Affairs recommends the initiation of the disciplinary process,
 the Chief of CDP, or his/her designee. or the Director of Public Safety will conduct a
 disciplinary hearing and will provide the officer with an opportunity to testify. If an
 officer provides new or additional evidence at the hearing, the hearing will be
 suspended and the matter will be returned to internal Affairs or PRB for consideration,
 as appropriate.
+
 242. If PRB recommends the initiation of the disciplinary process and recommends a
 disciplinary level, and the Chief or the Director of Public Safety does not uphold the
 charges in whole or in part after the hearing. or docs not impose the recommended
-56 
 discipline or non-disciplinary corrective action, the Chief or the Director will set forth
 in writing his or her justification for doing so.
+
 243. CDP will track the number of instances in which the Chief or the Director of Public
 Safety rejects, in whole or in part, PRB's recommended disposition.
+
 244. At least annually, the Monitor will review this data and assess whether PRB is
 achieving its mission.
+
 F. Discipline
+
 245. CDP will ensure that discipline for sustained allegations of misconduct comports with
 due process, and is consistently applied, fair, and based on the nature of the allegation,
-·and that mitigating and aggravating factors are identified and consistently applied and
+and that mitigating and aggravating factors are identified and consistently applied and
 documented.
-246. [n order to ensure consistency in the imposition of discipline, CDP will review its
+
+246. In order to ensure consistency in the imposition of discipline, CDP will review its
 current disciplinary matrix and will seek to amend it as necessary to ensure that it:
+
 a. establishes a presumptive range of discipline for each type of rule violation;
+
 b. increases the presumptive discipline based on an officer's prior violations of
 the same or other rules;
+
 c. sets out defined mitigating and aggravating factors;
+
 d. prohibits consideration of the officer's race, gender, national origin, age,
 ethnicity, familial relationships, or sexual orientation;
-e. prohi bits consideration of the high (or low) profile nature of the incident;
+
+e. prohibits consideration of the high (or low) profile nature of the incident;
+
 f. provides that CDP will not take only non-disciplinary corrective action in
 cases in which the disciplinary matrix calls for the imposition of discipline;
 and
+
 g. provides that CDP will consider whether non-disciplinary corrective action
 also is appropriate in a case where discipline has been imposed.
+
 247. All disciplinary decisions will be documented in writing.
+
 248. If amended, CDP will provide its disciplinary matrix to the Commission, the Police
 Inspector General, and the police unions for comment.
+
 249. CDP will work with the unions to allow for sustai ned disciplinary findings to stay in an
 officer's record for ten years.
-57 
+
 X. Transparency and Oversight
+
 A. Police Inspector General
+
 250. The City will hire an individual or individuals with significant experience in law
 enforcement practices and civil rights law to serve as a Police Inspector General. The
 City will seek the Commission's input in developing the minimum qualifications and
 experience for an Inspector General. The Police Inspector General will be appointed by
 the Mayor into the classified service of the City.
+
 251. The Police Inspector General will work in the Office of the Mayor of the City of
 Cleveland, but wi 11 report to the Chief of CDP.
+
 252. The Police Inspector General will not be a current or former employee of CDP.
+
 253. The duties of the Po.lice Inspector General will include authority to do the following:
+
 a. review CDP policies and practices to determine compliance with state and
 federal law, effectiveness, consistency with principles of bias-free and
 community policing and procedural justice; whether they promote public and
 officer safety, and whether they are achieving the goals of this Agreement;
+
 b. audit compliance with policies and procedures;
+
 c. conduct investigations;
+
 d. analyze trends;
+
 e. develop specific recommendations for reform concerning policies, procedures,
 practices, training, and equipment to improve police services and
 accountability;
+
 f. analyze investigations conducted by OPS to determine whether they are
 timely, complete, thorough, and whether recommended dispositions are
 supported by the preponderance of the evidence;
+
 g. collect and analyze all sustained findings and the discipline imposed,
 including the use of mitigating and aggravating factors, to assess disciplinary
 trends and to determine whether discipline is consistently applied, fair, and
 based on the nature of the allegation; and
+
 h. make reports and recommendations for reform publicly available.
+
 254. The Police Inspector General also will have authority to conduct investigations, analyze
-58 
 trends, and make reports and recommendations, as appropriate, at the request of the
 Chief of CDP or the Mayor. The Commission may recommend to the Chief of CDP, the
 Director of Public Safety, or the Mayor additional areas of inquiry for the Inspector
 General.
-255. The budget fo r the Inspector General will be visible as a separate line item in the
+
+255. The budget for the Inspector General will be visible as a separate line item in the
 budget proposal that is submitted annually pursuant to the Charter to the Cleveland City
 Council with the appropriation ordinance. The Monitor will analyze the Inspector
 General's budget and advise the Parties whether it affords sufficient independence and
 resources to meet the terms of this Agreement. The Monitor will include this
 assessment in its reports.
+
 256. The Police Inspector General will have access to all documents and data necessary to
 perfotm the above functions, including any raw data collected by the Data Collection
 and Analysis coordinator.
+
 B. Data Collection and Analysis
+
 257. CDP will collect and maintain all data and records necessary to accurately evaluate its
 use of force practices and search and seizure practices and facilitate transparency and,
 as permitted by Jaw, broad public access to information related to CDP's decision
