@@ -183,7 +183,6 @@ community that should be addressed. To that end, and simultaneous with the relea
 DO J's findings, the Parties issued a Joint Statement of Principles agreeing to begin
 negotiations with the intention of reaching a court-enforceable settlement agreement, to
 include the appointment of an outside independent monitor to ensure compliance with
-2 
 the terms of this Agreement. In agreeing to address these important issues, the City is
 not agreeing with the findings.
 6. Constitutional policing and effective policing are interdependent, and rely on a strong
@@ -230,6 +229,7 @@ City agrees to ensure that these functions and entities are consistent with the 
 this Agreement and wi 11 incorporate the terms of this Agreement into the oversight,
 regulatory, accreditation, investigation, or review functions of the government agency
 or entity as necessary to ensure consistency.
+
 III. COMMUNITY ENGAGEMENT AND BUILDING TRUST
 
 14. This Agreement recognizes the importance of community input into the way police
@@ -435,78 +435,104 @@ developing this report, CDP will consider, as appropriate, available results fro
 biennial survey. The community policing report will be provided to the Commission,
 posted on CD P's website, and a summary of the repo11 will be provided at each District
 community meeting following the report's publication.
+
 V. BIAS-FREE POLICING
+
 35. CDP will deliver police services with the goal of ensuring that they are equitable,
 respectful, and free of unlawful bias, in a manner that promotes broad community
 engagement and confidence in CDP. CDP expects all officers to treat all members of
 the Cleveland community with courtesy, professionalism, and respect, and not to use
 harassing, intimidating, or derogatory language.
+
 36. CDP will integrate bias-free policing principles into its management, policies and
 procedures, job descriptions, recruitment, training, personnel evaluations, resource
-deployment, tactics, and acco ~nt bili ty systems.
+deployment, tactics, and accountability systems.
+
 37. CDP will administer all activities without discrimination on the basis of race, ethnicity,
 national origin, religion, gender, disability, age, sexual orientation, or gender identity.
+
 38. Within 18 months of the Effective Date, CDP will develop a bias-free policing policy
 that incorporates, as appropriate, the recommendations developed by the Commission
 pursuant to paragraph 17, and that provides clear guidance to officers that biased
 policing, including deciding to detain a motorist or pedestrian based solely on racial
 stereotypes, is prohibited.
+
 39. Within 18 months of the Effective Date, with input from the Commission, CDP will
 develop training that incorporates the principles of procedural justice and that is
 designed to ensure that police services are delivered free from bias. The Monitor will
 review the training to assess whether it is adequate in quality, quantity, scope, and type.
-40. The training will be provided to all offi cers and will include:
+
+40. The training will be provided to all officers and will include:
+
 a. constitutional and other legal requirements related to equal protection and
 unlawful discrimination, including the requirements of this Agreement;
+
 b. strategies, such as problem-oriented policing, procedural justice, and
 recognizing implicit bias, to avoid conduct that may lead to biased policing or
 the perception of biased policing;
+
 c. historical and cultural systems that perpetuate racial and ethnic profiling;
-JO 
+
 d. identification of racial or ethnic profiling practices, and police practices that
 have a disparate impact on certain demographic categories;
+
 e. self-evaluation strategies to identify racial or ethnic profiling;
+
 f. District-level cultural competency training regarding the histories and culture
 of local immigrant and ethnic communities;
-g. police and community perspecti ves related to bias-free policing;
+
+g. police and community perspectives related to bias-free policing;
+
 h. the protection of civil rights as a central part of the police mission and as
 essential to effective policing;
-1. instruction in the data collection protocols required by this Agreement; and
-J. methods, strategics, and techniques to reduce misunderstanding, conflict, and
+
+i. instruction in the data collection protocols required by this Agreement; and
+
+j. methods, strategics, and techniques to reduce misunderstanding, conflict, and
 complaints due to perceived bias or discrimination.
+
 41. Supervisor training will include:
+
 a. how to identify biased police practices when reviewing investigatory stop,
-arrest, and use of fo rce data;
+arrest, and use of force data;
+
 b. how to respond to a complaint of biased police practices, including conducting
 a preliminary investigation of the complaint in order to preserve key evidence
 and potential witnesses;
+
 c. how to evaluate complaints of improper pedestrian stops for potential biased
 police practices; and
+
 d. engaging the community and developing positive relationships with diverse
 community groups.
-42. Offi cers also will receive annual in-service training on bias-free policing that is
+
+42. Officers also will receive annual in-service training on bias-free policing that is
 adequate in quality, quantity, type, and scope.
+
 43. To help ensure that police services are delivered in a manner free from bias, CDP will
 analyze data pursuant to paragraph 265.
+
 44. Within 18 months of the Effective Date, the appointing authority will consider
 principles of bias-free policing and equal protection in its hiring; unit assignment, as
 applicable; promotion; and performance assessment processes, including giving
-consideration to an individual's record of bias-related violations, as wel I as using
-interviews or other methods to assess the individual's abi lity to effectively practice
+consideration to an individual's record of bias-related violations, as well as using
+interviews or other methods to assess the individual's ability to effectively practice
 bias-free policing.
-I I 
+ 
 VI. USE OF FORCE
-45. DOJ acknowledges that CDP recently has made impo11ant changes to some of its force
+
+45. DOJ acknowledges that CDP recently has made important changes to some of its force
 policies. Building on these improvements, CDP will revise, develop, and implement
 force policies, training, supervision, and accountability systems with the goal of
 ensuring that force is used in accordance with the Constitution and laws of the United
 States and the requirements of this Agreement and that any use of unreasonable force is
-promptly identified and responded to appropriately. The force policies, trai ning,
-supervision, and accountabi Ii ty systems wi II be designed with the goal of ensuring that
-officers use techniques other than fo rce to effect compliance with police orders
+promptly identified and responded to appropriately. The force policies, training,
+supervision, and accountability systems will be designed with the goal of ensuring that
+officers use techniques other than force to effect compliance with police orders
 whenever feasible: use force only when necessary, and in a manner that avoids
-unnecessary injury to officers and civilians; de~esca ate the use of force at the earliest
+unnecessary injury to officers and civilians; de-escalate the use of force at the earliest
 possible moment; and accurately and completely report all uses of force.
+
 A. Use of Force Principles
 46. The City will implement the terms of this Agreement with the goal of ensuring that use
 of force by CDP offi cers, regardless of the type of force, tactics, or weapon used, wi 11
